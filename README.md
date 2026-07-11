@@ -12,12 +12,12 @@ Raw Data File Sources:
 - hpi_at_zip3.xlsx, from The Federal Finance Housing Agency: https://www.fhfa.gov/data/hpi/datasets?tab=annual-data
 
 - us-counties-2020.csv, from The New York Times: https://www.nytimes.com/article/coronavirus-county-data-us.html
-- Note: I attached a sample of this dataset containing the observations for the first 3 months of 2020 since the original file was too big to upload to github.
+  - Note: I attached a sample of this dataset containing the observations for the first 3 months of 2020 since the original file was too big to upload to github.
 
 - ZIP_COUNTY_122020, from the Office of Policy Development and Research: https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
 Other files:
 
-- dp_pt3.do, this file runs the commands to clean, merge, and analyze the data results in Stata to answer the research question.
+- covid_hpi.do, this file runs the commands to clean, merge, and analyze the data results in Stata to answer the research question.
 
-- dp_pt3.txt, this file is the printed results of all the commands run from the dp_pt3.do file.
+- Covid_hpi_Write_Up.pdf, this file provides the write up of the empirical analysis I conducted to answer the quesion listed at the top of this page.
